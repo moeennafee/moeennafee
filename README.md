@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Moeen Ahmed Nafee
 
-<!--
-**moeennafee/moeennafee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-End Developer | UI/UX Designer | Graphic Designer
 
-Here are some ideas to get you started:
+I'm a Computer Systems Engineering student at Al-Azhar University of Gaza with a passion for creating responsive web applications and modern user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Adobe XD
+- Canva
+- AI Tools
+
+## 🌱 Currently Learning
+
+- Git & GitHub
+- Advanced JavaScript
+- Modern Front-End Development
+
+## 📫 Contact Me
+
+📧 moeennafee@gmail.com
